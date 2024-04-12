@@ -10,7 +10,7 @@
 
 # Proyectos destacados 🚀
 
-#contacto
+# contacto
 
 ¡No dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología y programación! ✉️
  
