@@ -12,7 +12,7 @@
 # 🌷Proyectos destacados🌷
 
 mi portafolio: https://camilalopez707.github.io/portafolio_camila/
-repositorio: 
+repositorio: https://github.com/camilaLopez707/portafolio_camila
 
 # 🌻contacto🌻
 
