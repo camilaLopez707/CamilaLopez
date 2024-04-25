@@ -11,8 +11,10 @@
 
 # 🌷Proyectos destacados🌷
 
-mi portafolio: https://camilalopez707.github.io/portafolio_camila/
+- mi portafolio: https://camilalopez707.github.io/portafolio_camila/
 repositorio: https://github.com/camilaLopez707/portafolio_camila
+- carrito de compras: https://camilalopez707.github.io/desafio4/ 
+repositorio: https://github.com/camilaLopez707/desafio4/tree/main
 
 # 🌻contacto🌻
  mi linkedin: https://www.linkedin.com/in/camila-lopez-b5b9931b5/?trk=onsite_longurl
