@@ -17,9 +17,9 @@ repositorio: https://github.com/camilaLopez707/portafolio_camila
 repositorio: https://github.com/camilaLopez707/desafio4/tree/main
 
 # 🌻contacto🌻
- mi linkedin: https://www.linkedin.com/in/camila-lopez-b5b9931b5/?trk=onsite_longurl
- mi correo: camila.paz.lopezreyes@gmail.com
-¡No dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología y programación! ✉️
+ - mi linkedin: https://www.linkedin.com/in/camila-lopez-b5b9931b5/?trk=onsite_longurl
+ -  mi correo: camila.paz.lopezreyes@gmail.com
+ - ¡No dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología y programación! ✉️
 
 ¡Gracias por visitar mi perfil!🌼
  
